@@ -6,8 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "_Echo.aternos.me
-",
+    "ip": "_Echo.aternos.me",
     "port": 20364,
     "version": "",
     "try-creative": false
