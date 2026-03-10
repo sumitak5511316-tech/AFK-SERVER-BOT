@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "AFK-BOT",
+    "username": "BOT",
     "password": "",
     "type": "offline"
   },
@@ -27,11 +27,11 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": false,
-      "repeat": false,
-      "repeat-delay": 120,
+      "enabled": true,
+      "repeat": true,
+      "repeat-delay": 120000000,
       "messages": [
-        "."
+        "hehe"
       ]
     },
     "chat-log": true,
